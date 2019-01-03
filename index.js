@@ -24,7 +24,10 @@ function johnLennonFacts(array){
   return temp;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2bfa75354709f4dffd393f3c303f05ef187e7d6d
 function iLoveTheBeatles(n) {
   const arr = []
 

@@ -24,17 +24,14 @@ function johnLennonFacts(array){
   return temp;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 2bfa75354709f4dffd393f3c303f05ef187e7d6d
 function iLoveTheBeatles(n) {
-  const arr = []
+  const arr = [];
 
   do {
-    arr.push('I love the Beatles!')
-    n++
-  } while (n < 15)
+    arr.push('I love the Beatles!');
+    n++;
+  } while (n < 15);
 
-  return arr
+  return arr;
 }
